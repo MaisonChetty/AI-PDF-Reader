@@ -5,6 +5,7 @@ import {
   GlobeIcon,
   MonitorSmartphoneIcon,
   ServerCogIcon,
+  ServerIcon,
   ZapIcon,
  } from "lucide-react";
 import Image from "next/image";
@@ -12,34 +13,34 @@ import Link from "next/link";
 
 const features =[
   {
-    name:"store pdf",
-    description:"keep pdf safe",
+    name:"Store you PDF Document",
+    description:"keep all your important PDF files securely stored and easily accessible anytime, anywhere.",
     icon: GlobeIcon
   },
   {
-    name:"store pdf",
-    description:"keep pdf safe",
-    icon: GlobeIcon
+    name:"Blazing Fast Responses",
+    description:"Experience lightning-fast answers to your queries, ensuring you get the information you need instantly.",
+    icon: ZapIcon
   },
   {
-    name:"store pdf",
-    description:"keep pdf safe",
-    icon: GlobeIcon
+    name:"Chat Memorisation",
+    description:"Our intelligent chatbot remembers previous interactions, providing a seamless and personalized experience.",
+    icon: BrainCogIcon
   },
   {
-    name:"store pdf",
-    description:"keep pdf safe",
-    icon: GlobeIcon
+    name:"Interactive PDF Viewer",
+    description:"Engage with your PDFs like never Before using our intuitive and interactive viewer.",
+    icon: EyeIcon
   },
   {
-    name:"store pdf",
-    description:"keep pdf safe",
-    icon: GlobeIcon
+    name:"Cloud Backup",
+    description:"Rest assured knowing your documents are safely backed up on the cloud, protected from loss or damage.",
+    icon: ServerIcon
   },
   {
-    name:"store pdf",
-    description:"keep pdf safe",
-    icon: GlobeIcon
+    name:"Responsive Across Devices",
+    description:"Access and chat with you PDFs seamlessly on any device, whether it's your desktop, tablet, or smartphone.",
+    icon: MonitorSmartphoneIcon
   },
 ]
 
