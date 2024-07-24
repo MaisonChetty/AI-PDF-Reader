@@ -5,7 +5,6 @@ import {
   GlobeIcon,
   MonitorSmartphoneIcon,
   ServerCogIcon,
-  ServerIcon,
   ZapIcon,
  } from "lucide-react";
 import Image from "next/image";
@@ -35,7 +34,7 @@ const features =[
   {
     name:"Cloud Backup",
     description:"Rest assured knowing your documents are safely backed up on the cloud, protected from loss or damage.",
-    icon: ServerIcon
+    icon: ServerCogIcon
   },
   {
     name:"Responsive Across Devices",
