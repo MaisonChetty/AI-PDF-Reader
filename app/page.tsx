@@ -82,7 +82,7 @@ export default function Home() {
               tracking-tight
               text-gray-900
               sm:text-6xl">
-                Pransform your Pdfs into interactive Conversations
+                Transform your Pdfs into interactive Conversations
               </p>
               <p className="mt-6 text-lg leading-8 text-gray-600">
                 Intodusing{" "}
@@ -91,7 +91,7 @@ export default function Home() {
                 </span>
                 <br />
                 <br />
-                Uploade your document, and our chatbot will answer
+                Upload your document, and our chatbot will answer
                 questions, summarize content, and answer all your Qs.Ideal for
                 everyone,<span className="text-indigo-600">
                   Chat with PDF
