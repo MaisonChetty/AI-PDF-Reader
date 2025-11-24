@@ -1,36 +1,71 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+📚 AI PDF Study Assistant
 
-## Getting Started
+Live Demo: https://saas-eta-three.vercel.app
 
-First, run the development server:
+An AI-powered web app that turns your PDFs into interactive learning tools. Upload any PDF, ask questions, generate study guides, or even create quizzes — all powered by intelligent AI. Perfect for students, researchers, or anyone who wants to learn faster and smarter.
 
-```bash
+🚀 Features
+📄 PDF Q&A
+
+Ask questions based on your PDFs and get instant AI-generated answers.
+
+📝 Study Guide Generator
+
+Automatically generate organized study guides from your PDF content to make learning easier.
+
+🎯 Quiz Creator
+
+Create custom quizzes from your PDF to test your knowledge and reinforce learning.
+
+🧰 Tech Stack
+
+Next.js 14
+
+React
+
+TypeScript
+
+Tailwind CSS
+
+AI Model Integrations
+
+Vercel Deployment
+
+🛠️ Getting Started
+
+Install dependencies and start the development server:
+
+npm install
 npm run dev
 # or
+yarn install
 yarn dev
 # or
+pnpm install
 pnpm dev
 # or
+bun install
 bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Open http://localhost:3000
+ in your browser.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Start editing by modifying app/page.tsx. Changes are applied instantly thanks to hot reloading.
 
-## Learn More
+This project also uses next/font to automatically optimize and load the Inter font from Google Fonts.
 
-To learn more about Next.js, take a look at the following resources:
+📘 Learn More
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js Documentation: Learn about Next.js features and APIs.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Next.js Tutorial: Interactive learning experience.
 
-## Deploy on Vercel
+Next.js GitHub: Contribute or explore the source code.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+☁️ Deploy on Vercel
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+The fastest way to deploy this Next.js app is using Vercel, the creators of Next.js.
+
+Check out the Next.js deployment docs
+ for more details.
